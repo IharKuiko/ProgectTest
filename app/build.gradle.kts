@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.hfad.progecttest"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.hfad.progecttest"
